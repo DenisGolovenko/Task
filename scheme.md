@@ -1,1 +1,1 @@
-![блок-схема](scheme.jpg)
+!(scheme.jpg)
